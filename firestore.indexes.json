@@ -1,0 +1,8 @@
+{
+  "collectionGroup": "products",
+  "queryScope": "COLLECTION",
+  "fields": [
+    { "fieldPath": "priceValue", "order": "ASCENDING" },
+    { "fieldPath": "rating", "order": "DESCENDING" }
+  ]
+}
