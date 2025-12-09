@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "808967892704",
+    "project_id": "zetaone-d80a7",
+    "storage_bucket": "zetaone-d80a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808967892704:android:ed38061fcb6d33590d2a85",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808967892704-o3cbjrkef7gqi24d2ccbo0uenv4r9i73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR6yXNEhPI-9Y9kF794W4BZDFcxHbjIHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808967892704-o3cbjrkef7gqi24d2ccbo0uenv4r9i73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808967892704:android:0211056ac4084b560d2a85",
+        "android_client_info": {
+          "package_name": "com.farmmarket.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808967892704-o3cbjrkef7gqi24d2ccbo0uenv4r9i73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR6yXNEhPI-9Y9kF794W4BZDFcxHbjIHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808967892704-o3cbjrkef7gqi24d2ccbo0uenv4r9i73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
