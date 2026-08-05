@@ -7,7 +7,7 @@ A modern Flutter-based mobile application utilizing the latest mobile developmen
 - Flutter SDK (^3.29.2)
 - Dart SDK
 - Android Studio / VS Code with Flutter extensions
-- Android SDK / Xcode (for iOS development)
+- Android SDK / Xcode 
 
 ## 🛠️ Installation
 
