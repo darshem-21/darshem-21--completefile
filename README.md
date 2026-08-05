@@ -21,7 +21,7 @@ flutter pub get
 flutter run
 ```
 
-## 📁 Project Structure
+## 📁 Project Structure...
 
 ```
 flutter_app/
