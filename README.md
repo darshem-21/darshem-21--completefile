@@ -74,7 +74,7 @@ Color primaryColor = theme.colorScheme.primary;
 ```
 
 The theme configuration includes:
-- Color schemes for light and dark modes
+- Color schemes for light and dark modes..
 - Typography styles
 - Button themes
 - Input decoration themes
